@@ -7,5 +7,5 @@ Commandes:
   Flèches directionnelles et zqsd : déplacer le serpent  
   Clic souris : recommencer après un Game Over
 
-  <img width="771" height="772" alt="image" src="https://github.com/user-attachments/assets/95e6b9ab-e10f-41d7-a066-a8af1703a337" />
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/d46739c5-d62b-4526-ab06-ba71e8b3ea1a" />
 
